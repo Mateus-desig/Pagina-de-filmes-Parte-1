@@ -1,0 +1,15 @@
+form#form_generos button{
+    display: block;
+    background: none;
+    border: none;
+    color: #fafafa;
+    font-size:18px;
+    padding: 10px;
+    cursor: pointer;
+}
+form#form_generos button:hover{
+    color: #B40404;
+}
+form#form_generos{
+    padding-bottom: 150px;
+}
